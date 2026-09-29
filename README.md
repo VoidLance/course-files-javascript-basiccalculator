@@ -37,7 +37,3 @@ For questions or to report a problem, [open an issue](https://github.com/VoidLan
 ## Maintainers and contributing
 
 The project is maintained by [VoidLance](https://github.com/VoidLance). Contributions are welcome: open an issue to discuss a change, or submit a pull request with a clear description. Before submitting, check your changes by opening `index.html` in a browser and trying the affected calculator functions.
-
-## License
-
-See the repository's `LICENSE` file for license information, if provided.
